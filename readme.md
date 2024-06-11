@@ -1,6 +1,6 @@
-# Project Repository
+# Pylint-Pytest-Unittest
 
-This repository contains various Python projects, each with its own codebase and corresponding testing files. The projects are organized into separate directories for clarity and ease of use. Below, you will find detailed information on each project, including how to run tests and linting.
+ This repo covers Pylint-driven code refinement, Kaprekar routine implementation with unit tests, Lucas sequence evaluation, palindrome day detection using Pytest, and student score analysis with Pytest
 
 ## Directory Structure
 
@@ -61,12 +61,9 @@ This repository contains various Python projects, each with its own codebase and
     └── testcases
         └── test.py
 ```
-
-# Projects Overview
-
 ## Kaooa_Pylint
 
-This project demonstrates the use of Pylint to iteratively improve the code quality. The lint results for each iteration are stored in the lint directory.
+It demonstrates the use of Pylint to iteratively improve the code quality. The lint results for each iteration are stored in the lint directory.
 
 ### Kaooa Pylint Scores
 
@@ -91,7 +88,7 @@ pylint code/*.py
 
 ## Kaprekarroutine_unittest
 
-This project includes a script for the Kaprekar routine and its corresponding unittests.
+It includes a script for the Kaprekar routine and its corresponding unittests.
 
 ### Running Unittests
 
@@ -104,7 +101,7 @@ python -m unittest testcases/test.py
 
 ## Lucas_pylint
 
-This project demonstrates the use of Pylint for the Lucas sequence calculations.
+It demonstrates the use of Pylint for the Lucas sequence calculations.
 
 ### Lucas Pylint Scores
 
@@ -127,9 +124,10 @@ pylint code/*.py
 
 ## Palindrome_day_Pytest
 
-This project includes a script for checking palindrome days and its corresponding pytest test cases.
+It includes a script for checking palindrome days and its corresponding pytest test cases.
 
 ### Running Pytest
+
 
 To run the pytest tests:
 
@@ -140,7 +138,7 @@ pytest testcases/test.py
 
 ## Score_analyzer_Pytest
 
-This project includes a script for analyzing student scores and its corresponding pytest test cases.
+It includes a script for analyzing student scores and its corresponding pytest test cases.
 
 ### Running Pytest
 
@@ -184,3 +182,4 @@ Ensure you have the required Python version and dependencies installed.
 - For Pylint, make sure to have Pylint installed: `pip install pylint`.
 - For unittests and pytest, ensure you have pytest installed: `pip install pytest`.
 - Feel free to explore each project directory for more details and specific instructions.
+
