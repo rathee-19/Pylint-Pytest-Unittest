@@ -1,0 +1,13 @@
+************* Module Lucas7
+Lucas7.py:1:0: C0103: Module name "Lucas7" doesn't conform to snake_case naming style (invalid-name)
+Lucas7.py:67:4: W0603: Using the global statement (global-statement)
+Lucas7.py:68:4: W0603: Using the global statement (global-statement)
+Lucas7.py:78:4: W0603: Using the global statement (global-statement)
+Lucas7.py:88:4: W0603: Using the global statement (global-statement)
+Lucas7.py:89:4: W0603: Using the global statement (global-statement)
+Lucas7.py:90:4: W0603: Using the global statement (global-statement)
+Lucas7.py:84:0: R0912: Too many branches (24/12) (too-many-branches)
+Lucas7.py:84:0: R0915: Too many statements (71/50) (too-many-statements)
+
+-----------------------------------
+Your code has been rated at 9.35/10

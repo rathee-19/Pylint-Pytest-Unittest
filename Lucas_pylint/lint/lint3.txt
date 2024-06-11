@@ -1,0 +1,8 @@
+************* Module Lucas_3
+Lucas_3.py:1:0: C0103: Module name "Lucas_3" doesn't conform to snake_case naming style (invalid-name)
+Lucas_3.py:2:0: C0116: Missing function or method docstring (missing-function-docstring)
+Lucas_3.py:3:4: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+Lucas_3.py:10:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 7.14/10 (previous run: 7.14/10, +0.00)

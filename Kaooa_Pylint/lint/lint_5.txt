@@ -1,0 +1,33 @@
+************* Module Lucas5
+Lucas5.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+Lucas5.py:1:0: C0103: Module name "Lucas5" doesn't conform to snake_case naming style (invalid-name)
+Lucas5.py:4:0: W0105: String statement has no effect (pointless-string-statement)
+Lucas5.py:30:9: E0601: Using variable 'create_crow' before assignment (used-before-assignment)
+Lucas5.py:67:4: W0603: Using the global statement (global-statement)
+Lucas5.py:68:4: W0603: Using the global statement (global-statement)
+Lucas5.py:74:12: E1101: Module 'turtle' has no 'onscreenclick' member (no-member)
+Lucas5.py:78:4: W0603: Using the global statement (global-statement)
+Lucas5.py:82:8: E1101: Module 'turtle' has no 'onscreenclick' member (no-member)
+Lucas5.py:87:4: E1101: Module 'turtle' has no 'onscreenclick' member (no-member)
+Lucas5.py:88:4: W0603: Using the global statement (global-statement)
+Lucas5.py:89:4: W0603: Using the global statement (global-statement)
+Lucas5.py:90:4: W0603: Using the global statement (global-statement)
+Lucas5.py:102:24: E1101: Module 'turtle' has no 'penup' member (no-member)
+Lucas5.py:92:4: R1702: Too many nested blocks (6/5) (too-many-nested-blocks)
+Lucas5.py:113:20: E1101: Module 'turtle' has no 'penup' member (no-member)
+Lucas5.py:126:24: E1101: Module 'turtle' has no 'penup' member (no-member)
+Lucas5.py:133:32: R1704: Redefining argument with the local name 'y' (redefined-argument-from-local)
+Lucas5.py:141:36: E1101: Module 'turtle' has no 'penup' member (no-member)
+Lucas5.py:92:4: R1702: Too many nested blocks (10/5) (too-many-nested-blocks)
+Lucas5.py:156:20: E1101: Module 'turtle' has no 'penup' member (no-member)
+Lucas5.py:162:8: E1101: Module 'turtle' has no 'onscreenclick' member (no-member)
+Lucas5.py:164:8: E1101: Module 'turtle' has no 'onscreenclick' member (no-member)
+Lucas5.py:84:0: R0912: Too many branches (24/12) (too-many-branches)
+Lucas5.py:84:0: R0915: Too many statements (71/50) (too-many-statements)
+Lucas5.py:176:7: R0916: Too many boolean expressions in if statement (6/5) (too-many-boolean-expressions)
+Lucas5.py:180:8: E1101: Module 'turtle' has no 'onscreenclick' member (no-member)
+Lucas5.py:183:0: E1101: Module 'turtle' has no 'onscreenclick' member (no-member)
+
+-----------------------------------
+Your code has been rated at 4.24/10
+
